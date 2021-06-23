@@ -96,7 +96,7 @@ We will use the name of your Excel file to get the id of the file because we wil
 6. The function https://github.com/samba914/MSGRAPH_Tutoriel/blob/7fae1ec894806c991e1a04205a2770f8de5913be/src/main/java/io/github/oliviercailloux/tutorial/WorksheetWriter.java#L248[setFormat] will allow you to change the format of a cell.
 
 [start=7]
-7. The function https://github.com/oliviercailloux-org/dep-git-Teach_spreadsheets/blob/f9c1ae6da79bafc332892e20e214f56c17f8dc26/src/main/java/io/github/oliviercailloux/teach_spreadsheets/online/read/WorksheetReader.java#L54[getCellValue] will allow you to get the value of a cell.
+7. The function https://github.com/samba914/MSGRAPH_Tutoriel/blob/7fae1ec894806c991e1a04205a2770f8de5913be/src/main/java/io/github/oliviercailloux/tutorial/WorksheetReader.java#L54[getCellValue] will allow you to get the value of a cell.
 
 If you want more functionality you can go to the https://docs.microsoft.com/fr-fr/graph/api/worksheetcollection-add?view=graph-rest-1.0&tabs=http[documentation] 
 
