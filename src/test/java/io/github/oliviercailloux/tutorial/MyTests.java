@@ -1,4 +1,4 @@
-package io.github.oliviercailloux.java-archetype;
+package io.github.oliviercailloux.tutorial;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
